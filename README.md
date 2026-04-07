@@ -29,3 +29,6 @@ SyncForge is evolving as a lightweight and transparent layer focused on improvin
 No exaggerated claims no artificial boosts just more consistent coordination depending on the system and scenario
 
 If you are interested in how synchronization influences real time performance try it on your setup and observe how system timing evolves under different conditions
+
+
+DOWNLOAD: https://github.com/helm-1003s94/SyncForge/releases/tag/SyncForge
