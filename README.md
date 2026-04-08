@@ -3,7 +3,7 @@ SyncForge is an experimental runtime layer focused on shaping and stabilizing sy
 
 Built around real time analysis of timing relationships and process interaction it explores how coordinated execution affects frame delivery and responsiveness
 
-Why people try SyncForge
+Why people try SyncForge 
 
 Performance instability is often linked to weak synchronization between components SyncForge focuses on improving timing alignment to achieve more consistent behavior
 
